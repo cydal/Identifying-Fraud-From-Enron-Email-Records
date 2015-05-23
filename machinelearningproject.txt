@@ -1,0 +1,5 @@
+http://scott.fortmann-roe.com/docs/BiasVariance.html
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+http://scikit-learn.org/stable/modules/tree.html#classification
+http://en.wikipedia.org/wiki/Enron_scandal
+http://machinelearningmastery.com/better-naive-bayes/
